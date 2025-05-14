@@ -11,6 +11,9 @@ import { XYZ } from 'ol/source';
 export class AppComponent implements OnInit {
   map: Map | null = null;
 
+  constructor() {}
+
+  // TODO: do something
   ngOnInit(): void {
     this.map = new Map({
       target: 'map',
