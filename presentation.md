@@ -10,6 +10,16 @@ Vim / Neovim kezdoknek
 
 ---
 
+## De miert?
+
+- ⚡ Faster editing – fewer keystrokes (no more holding arrows or mouse-dragging)
+- ⌨ Keyboard-first workflow – minimizing context switches between mouse/keyboard
+- 🔄 Works everywhere – Vim-style keybindings other editors as well (with plugins)
+- 🎯 Precision control – Makes complex edits effortless
+- 🧠 Long-term payoff – Initial learning curve pays off with lifetime speed gains
+
+---
+
 ## Mi a Vim / Neovim?
 
 - Szovegszerkeszto
