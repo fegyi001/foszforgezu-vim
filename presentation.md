@@ -10,6 +10,14 @@ Vim / Neovim kezdoknek
 
 ---
 
+## Mi a Vim / Neovim?
+
+- Szovegszerkeszto
+- Terminal alapu
+- Eger hasznalata nelkul
+
+---
+
 ## Vi
 
 - 1976
@@ -62,7 +70,93 @@ Vim / Neovim kezdoknek
 ## Modal editor
 
 - Normal mode
+- ...
+- ...
+- ...
+- ...
+
+---
+
+## Modal editor
+
+- Normal mode
+- Insert mode
+- ...
+- ...
+- ...
+
+---
+
+## Modal editor
+
+- Normal mode
+- Insert mode
+- Visual mode
+- ...
+- ...
+
+---
+
+## Modal editor
+
+- Normal mode
+- Insert mode
+- Visual mode
+- Command mode
+- ...
+
+---
+
+## Modal editor
+
+- Normal mode
 - Insert mode
 - Visual mode
 - Command mode
 - Replace mode
+
+---
+
+## Modal editor
+
+- Normal mode
+- Insert mode
+- Visual mode
+- Command mode
+- Replace mode
+- etc.
+
+---
+
+### Normal mode
+
+- `j` - move down
+- `k` - move up
+- `h` - move left
+- `l` - move right
+
+---
+
+### Normal mode
+
+- `0` - move to the beginning of the line
+- `^` - move to the first non-blank character of the line
+- `$` - move to the end of the line
+
+---
+
+### Normal mode
+
+- `gg` - move to the beginning of the file
+- `G` - move to the end of the file
+
+---
+
+### Normal mode
+
+- `w` - move to the beginning of the next word
+- `b` - move to the beginning of the previous word
+- `e` - move to the end of the word
+- `W` - move to the beginning of the next word (ignoring punctuation)
+- `B` - move to the beginning of the previous word (ignoring punctuation)
+- `E` - move to the end of the word (ignoring punctuation)
