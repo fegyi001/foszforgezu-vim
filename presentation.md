@@ -71,13 +71,6 @@ Vim / Neovim kezdőknek
 
 ---
 
-## Alternatívák
-
-- Emacs
-- Helix
-
----
-
 ## Vim vs. Vim motions
 
 - VSCode
