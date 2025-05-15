@@ -223,7 +223,7 @@ COMMAND mode
 
 ### Másolás, törlés, beillesztés
 
-- `y` - másolás (`yank`)
+- `y` - másolás (yank)
 - `d` - törlés (és vágólapra illesztés)
 - `p` - beillesztés
 - `P` - beillesztés a kurzor elé
@@ -289,4 +289,13 @@ COMMAND mode
 
 ## OPERATOR-PENDING (O-PENDING) mode
 
--
+---
+
+## OPERATOR-PENDING (O-PENDING) mode
+
+- `diw` - töröld a teljes szót
+- `ciw` - módosítsd a teljes szót, INSERT módba vált
+- `yip` - töröld a teljes bekezdést
+- `vi'` - jelöld ki az idézőjel közötti részt
+- `di{` - töröld a kapcsos zárójelek közötti részt
+- `ca(` - módosítsd a zárójelek közötti részt, zárójelekkel együtt, INSERT módba vált
