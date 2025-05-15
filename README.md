@@ -6,7 +6,7 @@
 
 ### Run presentation from the command line
 
-````bash
+```bash
 slides presentation.md
 ```
 
@@ -16,4 +16,7 @@ slides presentation.md
 npm install
 npm run start
 ```
-````
+
+```
+
+```
