@@ -208,6 +208,18 @@ COMMAND mode
 
 ## NORMAL mode
 
+### Ugrás
+
+- `C-u` - fél képernyőnyit felfelé ugrik
+- `C-d` - fél képernyőnyit lefelé ugrik
+- `C-f` - egy képernyőnyit lefelé ugrik
+- `C-b` - egy képernyőnyit felfelé ugrik
+- `zz` - középre ugrik
+
+---
+
+## NORMAL mode
+
 ### Ugrás egy szónyit
 
 - `w` - következő szó elejére ugrik
@@ -270,7 +282,7 @@ COMMAND mode
 
 ## VISUAL mode
 
-- `v` - VISUAL mód, karakterek kijelölése
+- `v` - karakterek kijelölése (hjkl, b, w, e stb...)
 - `V` - VISUAL LINE (V-LINE) mód, teljes sor kijelölése
 - `Ctrl+v` - VISUAL BLOCK (V-BLOCK) mód, oszlop kijelölése
 
