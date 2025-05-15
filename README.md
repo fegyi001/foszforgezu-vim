@@ -8,6 +8,7 @@
 
 ````bash
 slides presentation.md
+```
 
 ### Run demo project
 
