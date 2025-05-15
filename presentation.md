@@ -15,7 +15,7 @@ Vim / Neovim kezdoknek
 - ⚡ Faster editing – fewer keystrokes (no more holding arrows or mouse-dragging)
 - ⌨ Keyboard-first workflow – minimizing context switches between mouse/keyboard
 - 🔄 Works everywhere – Vim-style keybindings other editors as well (with plugins)
-- 🎯 Precision control – Makes complex edits effortless
+- 🎯 Precision control – Makes complex edits easier
 - 🧠 Long-term payoff – Initial learning curve pays off with lifetime speed gains
 
 ---
@@ -51,7 +51,9 @@ Vim / Neovim kezdoknek
 - Thiago de Arruda
 - Vim fork
 - Lua
+- LSP (Language Server Protocol)
 - plugin architektura
+- IDE vs. PDE (Personal Development Environment)
 
 ---
 
@@ -71,9 +73,12 @@ Vim / Neovim kezdoknek
 
 ---
 
-## Exit Vim
+## Save & Exit Vim
 
-`:q` - quit
+- `:q` - quit
+- `:q!` - quit without saving
+- `:wq` - save and quit
+- `:w` - save
 
 ---
 
@@ -138,7 +143,7 @@ Vim / Neovim kezdoknek
 
 ---
 
-### Normal mode
+### Normal mode - arrow keys
 
 - `j` - move down
 - `k` - move up
@@ -147,22 +152,21 @@ Vim / Neovim kezdoknek
 
 ---
 
-### Normal mode
+### Normal mode - sor eleje, vege
 
 - `0` - move to the beginning of the line
-- `^` - move to the first non-blank character of the line
 - `$` - move to the end of the line
 
 ---
 
-### Normal mode
+### Normal mode - fajl eleje, vege
 
 - `gg` - move to the beginning of the file
 - `G` - move to the end of the file
 
 ---
 
-### Normal mode
+### Normal mode - ugras egy szonyit
 
 - `w` - move to the beginning of the next word
 - `b` - move to the beginning of the previous word
