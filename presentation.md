@@ -311,6 +311,30 @@ COMMAND mode
 - `vi'` - jelöld ki az idézőjel közötti részt
 - `di{` - töröld a kapcsos zárójelek közötti részt
 - `ca(` - módosítsd a zárójelek közötti részt, zárójelekkel együtt, INSERT módba vált
+- `dt(` - töröld a zárójelig (zárójelet már ne)
+- `df)` - töröld a zárójelig (zárójelet is)
+
+---
+
+## Keresés (NORMAL mode)
+
+---
+
+## Keresés (NORMAL mode)
+
+- `/` - keresés előrefelé
+- `?` - visszafelé keresés
+- `n` - következő találat
+- `N` - előző találat
+- `*` - következő szó keresése
+- `#` - előző szó keresése
+
+---
+
+## Keresés (NORMAL mode)
+
+- `gd` - ugrás a definícióra
+- `gr` - ugrás a referenciára
 
 ---
 
