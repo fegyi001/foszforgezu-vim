@@ -315,7 +315,7 @@ COMMAND mode
 
 ---
 
-## Keresés (NORMAL mode)
+## Keresés
 
 - `/` - keresés előrefelé
 - `?` - visszafelé keresés
@@ -326,10 +326,20 @@ COMMAND mode
 
 ---
 
-## Keresés (NORMAL mode)
+## Keresés
 
 - `gd` - ugrás a definícióra
 - `gr` - ugrás a referenciára
+
+---
+
+## Jumplist
+
+- `C-o` - ugrás vissza
+- `C-i` - ugrás előre
+- `g;` - ugrás a legutóbb szerkesztett helyre
+- `g,` - ugrás a legutóbb szerkesztett helyre (fordított sorrendben)
+- `gv` - legutóbbi kijelölés helyreállítása
 
 ---
 
