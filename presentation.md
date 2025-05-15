@@ -212,9 +212,6 @@ COMMAND mode
 
 - `C-u` - fél képernyőnyit felfelé ugrik
 - `C-d` - fél képernyőnyit lefelé ugrik
-- `C-f` - egy képernyőnyit lefelé ugrik
-- `C-b` - egy képernyőnyit felfelé ugrik
-- `zz` - középre ugrik
 
 ---
 
@@ -273,6 +270,7 @@ COMMAND mode
 - `A` - INSERT módba lép a sor végén
 - `o` - új sort nyit INSERT módban
 - `O` - új sort nyit fölötte INSERT módban
+- `Esc` - vissza NORMAL módba
 
 ---
 
@@ -340,10 +338,6 @@ COMMAND mode
 
 ## LazyVim
 
----
-
-## LazyVim
-
 - 2023
 - Folke Lemaitre
 - Neovim disztribúció (pre-configured setup)
@@ -366,10 +360,6 @@ COMMAND mode
 
 ---
 
-# DEMO
-
----
-
 # MY CONFIG
 
 ## Neovim
@@ -384,3 +374,7 @@ COMMAND mode
 
 - <https://github.com/fegyi001/dotfiles>
 - tmux, zsh, wezterm, yazi, starship etc.
+
+---
+
+# DEMO
