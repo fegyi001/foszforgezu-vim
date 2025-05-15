@@ -91,66 +91,95 @@ Vim / Neovim kezdőknek
 
 ## Modal editor
 
-- Normal mode
-- ...
-- ...
-- ...
-- ...
+NORMAL mode
+
+INSERT mode
+
+VISUAL mode
+
+COMMAND mode
+
+REPLACE mode
 
 ---
 
 ## Modal editor
 
-- Normal mode
-- Insert mode
-- ...
-- ...
-- ...
+### NORMAL mode
+
+INSERT mode
+
+VISUAL mode
+
+COMMAND mode
+
+REPLACE mode
 
 ---
 
 ## Modal editor
 
-- Normal mode
-- Insert mode
-- Visual mode
-- ...
-- ...
+NORMAL mode
+
+### INSERT mode
+
+VISUAL mode
+
+COMMAND mode
+
+REPLACE mode
 
 ---
 
 ## Modal editor
 
-- Normal mode
-- Insert mode
-- Visual mode
-- Command mode
-- ...
+NORMAL mode
+
+INSERT mode
+
+### VISUAL mode
+
+COMMAND mode
+
+REPLACE mode
 
 ---
 
 ## Modal editor
 
-- Normal mode
-- Insert mode
-- Visual mode
-- Command mode
-- Replace mode
+NORMAL mode
+
+INSERT mode
+
+VISUAL mode
+
+### COMMAND mode
+
+REPLACE mode
 
 ---
 
 ## Modal editor
 
-- Normal mode
-- Insert mode
-- Visual mode
-- Command mode
-- Replace mode
-- etc.
+NORMAL mode
+
+INSERT mode
+
+VISUAL mode
+
+COMMAND mode
+
+### REPLACE mode
 
 ---
 
-### Normal mode - arrow keys
+## NORMAL mode
+
+---
+
+## NORMAL mode
+
+### Arrow keys
 
 - `j` - lefele nyíl
 - `k` - felfele nyíl
@@ -159,21 +188,27 @@ Vim / Neovim kezdőknek
 
 ---
 
-### Normal mode - sor eleje, vége
+## NORMAL mode
+
+### Sor eleje, vége
 
 - `0` - sor első karakterére ugrik
 - `$` - sor utolsó karakterére ugrik
 
 ---
 
-### Normal mode - fájl eleje, vége
+## NORMAL mode
+
+### Fájl eleje, vége
 
 - `gg` - fájl elejére ugrik
 - `G` - fájl végére ugrik
 
 ---
 
-### Normal mode - ugrás egy szónyit
+## NORMAL mode
+
+### Ugrás egy szónyit
 
 - `w` - következő szó elejére ugrik
 - `b` - előző szó elejére ugrik
@@ -181,3 +216,37 @@ Vim / Neovim kezdőknek
 - `W` - következő szó elejére ugrik (írásjelek figyelmen kívül hagyásával)
 - `B` - előző szó elejére ugrik (írásjelek figyelmen kívül hagyásával)
 - `E` - következő szó végére ugrik (írásjelek figyelmen kívül hagyásával)
+
+---
+
+## NORMAL mode
+
+### Másolás, törlés, beillesztés
+
+- `y` - másolás (`yank`)
+- `d` - törlés (és vágólapra illesztés)
+- `p` - beillesztés
+- `P` - beillesztés a kurzor elé
+- `x` - törlés
+
+---
+
+## NORMAL mode
+
+### Másolás, törlés teljes soron
+
+- `yy` - teljes sor másolás
+- `dd` - teljes sor törlés
+
+---
+
+## Insert mode
+
+### Ugrás egy szónyit
+
+- `i` - szerkesztő módba lép
+- `a` - szerkesztő módba lép a kurzor mögé
+- `I` - szerkesztő módba lép a sor elejére
+- `A` - szerkesztő módba lép a sor végére
+- `o` - új sort nyit alatta
+- `O` - új sort nyit fölötte
