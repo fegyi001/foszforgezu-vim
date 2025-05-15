@@ -1,30 +1,30 @@
 # DOBD EL AZ EGERED
 
-Hogyan navigalj a kodban eger hasznalata nelkul
+Hogyan navigálj a kódban egér használata nélkül
 
 ---
 
 # DOBD EL AZ EGERED
 
-Vim / Neovim kezdoknek
+Vim / Neovim kezdőknek
 
 ---
 
-## De miert?
+## De miért?
 
-- ⚡ Faster editing – fewer keystrokes (no more holding arrows or mouse-dragging)
-- ⌨ Keyboard-first workflow – minimizing context switches between mouse/keyboard
-- 🔄 Works everywhere – Vim-style keybindings other editors as well (with plugins)
-- 🎯 Precision control – Makes complex edits easier
-- 🧠 Long-term payoff – Initial learning curve pays off with lifetime speed gains
+- ⚡ Gyorsabb szerkesztés
+- ⌨ Keyboard-first workflow
+- 🎯 Precízebb kontroll
+- 🔄 Mindenhol működik
+- 🧠 Hosszútávú befektetés
 
 ---
 
 ## Mi a Vim / Neovim?
 
-- Szovegszerkeszto
-- Terminal alapu
-- Eger hasznalata nelkul
+- Szövegszerkesztő
+- Terminál alapú
+- Egér használata nélkül
 
 ---
 
@@ -41,7 +41,7 @@ Vim / Neovim kezdoknek
 - Bram Moolenaar
 - Vi IMproved
 - Vimscript
-- szervereken tulajdonkeppen mindenhol
+- szervereken tulajdonképpen mindenhol
 
 ---
 
@@ -52,7 +52,7 @@ Vim / Neovim kezdoknek
 - Vim fork
 - Lua
 - LSP (Language Server Protocol)
-- plugin architektura
+- plugin architektúra
 - IDE vs. PDE (Personal Development Environment)
 
 ---
@@ -64,21 +64,21 @@ Vim / Neovim kezdoknek
 
 ---
 
-## Enter Vim
+## Indítás
 
-- `vim` - enter Vim
-- `vim <filename>` - enter Vim with a file
-- `nvim` - enter Neovim
-- `nvim <filename>` - enter Neovim with a file
+- `vim` - Vim indítása
+- `vim <filename>` - Vim indítása fájllal
+- `nvim` - Neovim indítása
+- `nvim <filename>` - Neovim indítása fájllal
 
 ---
 
-## Save & Exit Vim
+## Mentés és kilépés
 
-- `:q` - quit
-- `:q!` - quit without saving
-- `:wq` - save and quit
-- `:w` - save
+- `:q` - kilépés
+- `:q!` - kilépés mentés nélkül
+- `:wq` - mentés és kilépés
+- `:w` - mentés
 
 ---
 
@@ -145,32 +145,32 @@ Vim / Neovim kezdoknek
 
 ### Normal mode - arrow keys
 
-- `j` - move down
-- `k` - move up
-- `h` - move left
-- `l` - move right
+- `j` - lefele nyíl
+- `k` - felfele nyíl
+- `h` - balra nyíl
+- `l` - jobbra nyíl
 
 ---
 
-### Normal mode - sor eleje, vege
+### Normal mode - sor eleje, vége
 
-- `0` - move to the beginning of the line
-- `$` - move to the end of the line
-
----
-
-### Normal mode - fajl eleje, vege
-
-- `gg` - move to the beginning of the file
-- `G` - move to the end of the file
+- `0` - sor első karakterére ugrik
+- `$` - sor utolsó karakterére ugrik
 
 ---
 
-### Normal mode - ugras egy szonyit
+### Normal mode - fájl eleje, vége
 
-- `w` - move to the beginning of the next word
-- `b` - move to the beginning of the previous word
-- `e` - move to the end of the word
-- `W` - move to the beginning of the next word (ignoring punctuation)
-- `B` - move to the beginning of the previous word (ignoring punctuation)
-- `E` - move to the end of the word (ignoring punctuation)
+- `gg` - fájl elejére ugrik
+- `G` - fájl végére ugrik
+
+---
+
+### Normal mode - ugrás egy szónyit
+
+- `w` - következő szó elejére ugrik
+- `b` - előző szó elejére ugrik
+- `e` - következő szó végére ugrik
+- `W` - következő szó elejére ugrik (írásjelek figyelmen kívül hagyásával)
+- `B` - előző szó elejére ugrik (írásjelek figyelmen kívül hagyásával)
+- `E` - következő szó végére ugrik (írásjelek figyelmen kívül hagyásával)
