@@ -3,18 +3,19 @@ import { Map, View } from 'ol';
 import TileLayer from 'ol/layer/Tile';
 import { XYZ } from 'ol/source';
 
+import { AppService } from './app.service';
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',
+  providers: [AppService],
 })
 export class AppComponent implements OnInit {
   map: Map | null = null;
 
-  constructor() {}
-
-  // TODO: do something
-  ngOnInit(): void {
+  ngOnInit() {
+    // TODO: refactor this
     this.map = new Map({
       target: 'map',
       layers: [
@@ -25,8 +26,10 @@ export class AppComponent implements OnInit {
         }),
       ],
       view: new View({
+        // TODO: change center to use the app service
         center: [0, 0],
-        zoom: 2,
+        // TODO: change zoom to use the app service
+        zoom: 0,
       }),
     });
   }
