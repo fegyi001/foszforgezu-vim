@@ -16,7 +16,3 @@ slides presentation.md
 npm install
 npm run start
 ```
-
-```
-
-```
