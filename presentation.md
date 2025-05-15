@@ -23,6 +23,7 @@ Vim / Neovim kezdőknek
 - 🎯 Precízebb kontroll
 - 🔄 Mindenhol működik
 - 🧠 Hosszútávú befektetés
+- ❤️ Nagyobb élvezet
 
 ---
 
@@ -74,6 +75,20 @@ Vim / Neovim kezdőknek
 
 - Emacs
 - Helix
+
+---
+
+## Vim vs. Vim motions
+
+- VSCode
+- IntelliJ (IDEA, PyCharm, WebStorm, stb.)
+- Android Studio
+- Sublime Text
+- Jupyter Notebook
+- Obsidian
+- Zsh/Bash
+- LazyGit
+- etc.
 
 ---
 
@@ -181,10 +196,6 @@ COMMAND mode
 
 ## NORMAL mode
 
----
-
-## NORMAL mode
-
 ### Arrow keys (home row)
 
 - `j` - le
@@ -266,10 +277,6 @@ COMMAND mode
 
 ## INSERT mode
 
----
-
-## INSERT mode
-
 - `i` - INSERT módba lép a kurzor előtt
 - `a` - INSERT módba lép a kurzor mögött
 - `I` - INSERT módba lép a sor elején
@@ -277,10 +284,6 @@ COMMAND mode
 - `o` - új sort nyit INSERT módban
 - `O` - új sort nyit fölötte INSERT módban
 - `Esc` - vissza NORMAL módba
-
----
-
-## VISUAL mode
 
 ---
 
@@ -294,20 +297,12 @@ COMMAND mode
 
 ## REPLACE mode
 
----
-
-## REPLACE mode
-
 - `r` - karaktert cserél
 - `R` - REPLACE módba lép (több karakter cseréje)
 
 ---
 
-## OPERATOR-PENDING (O-PENDING) mode
-
----
-
-## OPERATOR-PENDING (O-PENDING) mode
+## OPERATOR-PENDING mode
 
 - `diw` - töröld a teljes szót
 - `ciw` - módosítsd a teljes szót, INSERT módba vált
@@ -317,10 +312,6 @@ COMMAND mode
 - `ca(` - módosítsd a zárójelek közötti részt, zárójelekkel együtt, INSERT módba vált
 - `dt(` - töröld a zárójelig (zárójelet már ne)
 - `df)` - töröld a zárójelig (zárójelet is)
-
----
-
-## Keresés (NORMAL mode)
 
 ---
 
