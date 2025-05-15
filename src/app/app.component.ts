@@ -3,13 +3,10 @@ import { Map, View } from 'ol';
 import TileLayer from 'ol/layer/Tile';
 import { XYZ } from 'ol/source';
 
-import { AppService } from './app.service';
-
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',
-  providers: [AppService],
 })
 export class AppComponent implements OnInit {
   map: Map | null = null;

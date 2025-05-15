@@ -1,6 +1,8 @@
 import { Injectable } from '@angular/core';
 
-@Injectable()
+@Injectable({
+  providedIn: 'root',
+})
 export class AppService {
   private _mapCenter: number[] = [2121256, 6021014];
   private _mapZoom: number = 18;
