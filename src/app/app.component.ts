@@ -12,7 +12,7 @@ export class AppComponent implements OnInit {
   map: Map | null = null;
 
   ngOnInit() {
-    // TODO: refactor this
+    // TODO: refactor this - move to a private method
     this.map = new Map({
       target: 'map',
       layers: [
