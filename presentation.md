@@ -12,8 +12,8 @@ Vim / Neovim kezdőknek
 
 ## De miért?
 
-- ⚡ Gyorsabb szerkesztés
 - ⌨ Keyboard-first workflow
+- ⚡ Gyorsabb szerkesztés
 - 🎯 Precízebb kontroll
 - 🔄 Mindenhol működik
 - 🧠 Hosszútávú befektetés
@@ -22,9 +22,9 @@ Vim / Neovim kezdőknek
 
 ## Mi a Vim / Neovim?
 
-- Szövegszerkesztő
-- Terminál alapú
-- Egér használata nélkül
+- 📝 Szövegszerkesztő
+- ⌨️ Terminál alapú
+- 🚫🖱️ Egér használata nélkül
 
 ---
 
@@ -61,6 +61,13 @@ Vim / Neovim kezdőknek
 
 - <https://survey.stackoverflow.co/2023/#section-admired-and-desired-integrated-development-environment>
 - Visual Studio Code is the preferred IDE as far as what users want but Neovim has a higher proportion of users that want to continue using it next year (81% vs 77%).
+
+---
+
+## Alternatívák
+
+- Emacs
+- Helix
 
 ---
 
