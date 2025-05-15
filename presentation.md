@@ -240,13 +240,53 @@ COMMAND mode
 
 ---
 
-## Insert mode
+## NORMAL mode
 
-### Ugrás egy szónyit
+### Visszavonás, újra
 
-- `i` - szerkesztő módba lép
-- `a` - szerkesztő módba lép a kurzor mögé
-- `I` - szerkesztő módba lép a sor elejére
-- `A` - szerkesztő módba lép a sor végére
-- `o` - új sort nyit alatta
-- `O` - új sort nyit fölötte
+- `u` - visszavonás
+- `Ctrl+r` - újra
+
+---
+
+## INSERT mode
+
+---
+
+## INSERT mode
+
+- `i` - INSERT módba lép a kurzor előtt
+- `a` - INSERT módba lép a kurzor mögött
+- `I` - INSERT módba lép a sor elején
+- `A` - INSERT módba lép a sor végén
+- `o` - új sort nyit INSERT módban
+- `O` - új sort nyit fölötte INSERT módban
+
+---
+
+## VISUAL mode
+
+---
+
+## VISUAL mode
+
+- `v` - VISUAL módba lép
+- `V` - VISUAL LINE (V-LINE) módba lép (teljes sor kijelölése)
+- `Ctrl+v` - VISUAL BLOCK (V-BLOCK) módba lép (oszlop kijelölése)
+
+---
+
+## REPLACE mode
+
+---
+
+## REPLACE mode
+
+- `r` - karaktert cserél
+- `R` - REPLACE módba lép (több karakter cseréje)
+
+---
+
+## OPERATOR-PENDING (O-PENDING) mode
+
+-
