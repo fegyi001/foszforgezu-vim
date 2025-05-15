@@ -179,12 +179,12 @@ COMMAND mode
 
 ## NORMAL mode
 
-### Arrow keys
+### Arrow keys (home row)
 
-- `j` - lefele nyíl
-- `k` - felfele nyíl
-- `h` - balra nyíl
-- `l` - jobbra nyíl
+- `j` - le
+- `k` - fel
+- `h` - balra
+- `l` - jobbra
 
 ---
 
@@ -224,10 +224,10 @@ COMMAND mode
 ### Másolás, törlés, beillesztés
 
 - `y` - másolás (yank)
+- `x` - egy karakter törlése
 - `d` - törlés (és vágólapra illesztés)
 - `p` - beillesztés
 - `P` - beillesztés a kurzor elé
-- `x` - törlés
 
 ---
 
