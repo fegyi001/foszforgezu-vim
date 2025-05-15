@@ -270,9 +270,9 @@ COMMAND mode
 
 ## VISUAL mode
 
-- `v` - VISUAL módba lép
-- `V` - VISUAL LINE (V-LINE) módba lép (teljes sor kijelölése)
-- `Ctrl+v` - VISUAL BLOCK (V-BLOCK) módba lép (oszlop kijelölése)
+- `v` - VISUAL mód, karakterek kijelölése
+- `V` - VISUAL LINE (V-LINE) mód, teljes sor kijelölése
+- `Ctrl+v` - VISUAL BLOCK (V-BLOCK) mód, oszlop kijelölése
 
 ---
 
@@ -299,3 +299,52 @@ COMMAND mode
 - `vi'` - jelöld ki az idézőjel közötti részt
 - `di{` - töröld a kapcsos zárójelek közötti részt
 - `ca(` - módosítsd a zárójelek közötti részt, zárójelekkel együtt, INSERT módba vált
+
+---
+
+## LazyVim
+
+---
+
+## LazyVim
+
+- 2023
+- Folke Lemaitre
+- Neovim disztribúció (pre-configured setup)
+- <https://www.lazyvim.org/>
+- <https://lazyvim-ambitious-devs.phillips.codes/>
+
+---
+
+## LazyVim
+
+- 🌐 LSP
+- 🌳 Treesitter
+- 📦 Plugin manager
+- ✨ Autocompletion
+- 󰊢 Git integration
+- 🔍 Fuzzy finder
+- 📂 File explorer
+- 🎨 Colorscheme
+- ⌨️ Keymaps
+
+---
+
+# DEMO
+
+---
+
+# MY CONFIG
+
+## Neovim
+
+- <https://github.com/fegyi001/nvim>
+
+---
+
+# MY CONFIG
+
+## Dotfiles
+
+- <https://github.com/fegyi001/dotfiles>
+- tmux, zsh, wezterm, yazi, starship etc.
