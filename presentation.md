@@ -1,6 +1,12 @@
+---
+author: Padányi-Gulyás Gergely
+date: YYYY.MM.DD.
+paging: Foszforgézu 2025 | Slide %d / %d
+---
+
 # DOBD EL AZ EGERED
 
-Hogyan navigálj a kódban egér használata nélkül
+Avagy hogyan navigálj a kódban egér használata nélkül
 
 ---
 
