@@ -8,6 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "lint": "ng lint --fix",
+    "eslint": "eslint",
     "prepare": "husky"
   },
   "private": true,
@@ -46,7 +47,24 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
+    "lint-staged": "^16.0.0",
     "typescript": "~5.7.2",
     "typescript-eslint": "8.32.0"
+  },
+  "lint-staged": {
+    "**/*.{json,yml,yaml,js,ts}": [
+      "prettier --write --ignore-unknown"
+    ],
+    "**/*{.ts,.mjs,.js}": [
+      "eslint --fix"
+    ],
+    "src/**/*.scss": [
+      "stylelint --fix",
+      "prettier --write --ignore-unknown"
+    ],
+    "src/**/*.html": [
+      "prettier --write --ignore-unknown",
+      "eslint --fix"
+    ]
   }
 }

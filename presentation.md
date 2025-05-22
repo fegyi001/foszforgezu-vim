@@ -296,6 +296,7 @@ COMMAND mode
 - `C-o` - ugrás vissza
 - `C-i` - ugrás előre
 - `g;` - ugrás a legutóbb szerkesztett helyre
+- `g,` - ugrás a legutóbb szerkesztett helyre (fordított sorrendben)
 - `gv` - legutóbbi kijelölés helyreállítása
 
 ---
