@@ -12,55 +12,42 @@ Avagy hogyan navigálj a kódban egér használata nélkül
 
 # DOBD EL AZ EGERED
 
-Vim / Neovim kezdőknek
+Vim / Neovim kedvcsináló
+
+---
+
+# KI AZ, AKI
 
 ---
 
 ## De miért?
 
-- ⌨ Keyboard-first workflow
-- ⚡ Gyorsabb szerkesztés
-- 🎯 Precízebb kontroll
-- 🔄 Mindenhol működik
-- 🧠 Hosszútávú befektetés
+- 💪 Hatékonyabb
+- 😎 Menőbb
 - ❤️ Nagyobb élvezet
 
 ---
 
 ## Mi a Vim / Neovim?
 
-- 📝 Szövegszerkesztő
+- 📝 Szövegszerkesztő (text editor)
 - ⌨️ Terminál alapú
 - 🚫🖱️ Egér használata nélkül
 
 ---
 
-## Vi
+## Történet
 
-- 1976
-- Bill Joy
+### Vi - 1976
 
----
+### Vim - 1991
 
-## Vim
+- Vi improved
 
-- 1991
-- Bram Moolenaar
-- Vi IMproved
-- Vimscript
-- szervereken tulajdonképpen mindenhol
+### Neovim - 2015
 
----
-
-## Neovim
-
-- 2015
-- Thiago de Arruda
-- Vim fork
-- Lua
-- LSP (Language Server Protocol)
-- plugin architektúra
-- IDE vs. PDE (Personal Development Environment)
+- plugin-ek
+- LSP
 
 ---
 
