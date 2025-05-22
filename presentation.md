@@ -42,23 +42,22 @@ Vim / Neovim kedvcsináló
 
 ### Vim - 1991
 
-- Vi improved
-
 ### Neovim - 2015
 
-- plugin-ek
-- LSP
+---
+
+## Statisztika
+
+<https://survey.stackoverflow.co/2024/technology#2-integrated-development-environment>
+
+|                   | VSCode             | Vim | Neovim             |
+| ----------------- | ------------------ | --- | ------------------ |
+| Legnépszerűbb     | 73% (1. helyezett) | 22% | 12.5%              |
+| Legjobban kedvelt | 77%                | 69% | 83% (1. helyezett) |
 
 ---
 
-## Neovim
-
-- <https://survey.stackoverflow.co/2023/#section-admired-and-desired-integrated-development-environment>
-- Visual Studio Code is the preferred IDE as far as what users want but Neovim has a higher proportion of users that want to continue using it next year (81% vs 77%).
-
----
-
-## Vim vs. Vim motions
+## Vim !== Vim motions
 
 - VSCode
 - IntelliJ (IDEA, PyCharm, WebStorm, stb.)
@@ -69,24 +68,6 @@ Vim / Neovim kedvcsináló
 - Zsh/Bash
 - LazyGit
 - etc.
-
----
-
-## Indítás
-
-- `vim` - Vim indítása
-- `vim <filename>` - Vim indítása fájllal
-- `nvim` - Neovim indítása
-- `nvim <filename>` - Neovim indítása fájllal
-
----
-
-## Mentés és kilépés
-
-- `:q` - kilépés
-- `:q!` - kilépés mentés nélkül
-- `:wq` - mentés és kilépés
-- `:w` - mentés
 
 ---
 
