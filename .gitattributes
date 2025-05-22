@@ -15,8 +15,3 @@
 *.png binary
 *.jpg binary
 
-/.yarn/releases/** binary
-/.yarn/plugins/** binary
-
-libs/apis/**/* linguist-generated=true
-*.spec.ts.snap linguist-generated=true
