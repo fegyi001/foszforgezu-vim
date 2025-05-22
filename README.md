@@ -1,6 +1,6 @@
 # Foszforgezu-vim
 
-> A presentation about the Vim & Neovim using [slides](https://github.com/maaslalani/slides)
+> A presentation about Vim & Neovim using [slides](https://github.com/maaslalani/slides)
 
 ## Run presentation
 
