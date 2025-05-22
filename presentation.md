@@ -6,7 +6,7 @@ paging: Foszforgézu 2025 | Slide %d / %d
 
 # DOBD EL AZ EGERED
 
-Avagy hogyan navigálj a kódban egér használata nélkül
+Avagy hogyan navigálj a kódban egér (és nyilak) használata nélkül
 
 ---
 
@@ -199,10 +199,6 @@ COMMAND mode
 
 - `w` - következő szó elejére ugrik
 - `b` - előző szó elejére ugrik
-- `e` - következő szó végére ugrik
-- `W` - következő szó elejére ugrik (írásjelek figyelmen kívül hagyásával)
-- `B` - előző szó elejére ugrik (írásjelek figyelmen kívül hagyásával)
-- `E` - következő szó végére ugrik (írásjelek figyelmen kívül hagyásával)
 
 ---
 
@@ -214,7 +210,6 @@ COMMAND mode
 - `x` - egy karakter törlése
 - `d` - törlés (és vágólapra illesztés)
 - `p` - beillesztés
-- `P` - beillesztés a kurzor elé
 
 ---
 
@@ -222,8 +217,9 @@ COMMAND mode
 
 ### Másolás, törlés teljes soron
 
-- `yy` - teljes sor másolás
-- `dd` - teljes sor törlés
+- `yy` - teljes sor másolása
+- `dd` - teljes sor törlése
+- `cc` - teljes sor törlése és INSERT módba lépés
 
 ---
 
@@ -250,9 +246,10 @@ COMMAND mode
 
 ## VISUAL mode
 
-- `v` - karakterek kijelölése (hjkl, b, w, e stb...)
+- `v` - karakterek kijelölése (innen `hjkl`, `b`, `w`, `e` stb...)
 - `V` - VISUAL LINE (V-LINE) mód, teljes sor kijelölése
 - `Ctrl+v` - VISUAL BLOCK (V-BLOCK) mód, oszlop kijelölése
+- `o` - kijelölés másik végére ugrás
 
 ---
 
