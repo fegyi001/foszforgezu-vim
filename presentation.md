@@ -6,25 +6,17 @@ paging: Foszforgézu 2025 | Slide %d / %d
 
 # DOBD EL AZ EGERED
 
-Avagy hogyan navigálj a kódban egér (és nyilak) használata nélkül
+_Avagy hogyan navigálj a kódban egér használata nélkül, hatékonyan_
 
 ---
 
 # DOBD EL AZ EGERED
 
-Vim / Neovim kedvcsináló
+_Vim / Neovim kedvcsináló_
 
 ---
 
-# KI AZ, AKI
-
----
-
-## De miért?
-
-- 💪 Hatékonyabb
-- 😎 Menőbb
-- ❤️ Nagyobb élvezet
+## Ki az, aki...?
 
 ---
 
@@ -33,6 +25,14 @@ Vim / Neovim kedvcsináló
 - 📝 Szövegszerkesztő (text editor)
 - ⌨️ Terminál alapú
 - 🚫🖱️ Egér használata nélkül
+
+---
+
+## De miért?
+
+- 💪 Hatékonyabb
+- ❤️ Nagyobb élvezet
+- 😎 Menőbb
 
 ---
 
@@ -317,7 +317,7 @@ COMMAND mode
 
 ## Kickstart.nvim
 
-- https://github.com/nvim-lua/kickstart.nvim
+- <https://github.com/nvim-lua/kickstart.nvim>
 
 ---
 
