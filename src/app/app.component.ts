@@ -10,7 +10,6 @@ import { XYZ } from 'ol/source'
 })
 export class AppComponent implements OnInit {
   map: Map | null = null
-  //
 
   ngOnInit() {
     // TODO: refactor this - move to a private method
