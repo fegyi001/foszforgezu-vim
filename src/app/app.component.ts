@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core'
+import { Map, View } from 'ol'
 import TileLayer from 'ol/layer/Tile'
 import { XYZ } from 'ol/source'
-import { Map, View } from 'ol'
 
 @Component({
   selector: 'app-root',
