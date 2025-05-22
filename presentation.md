@@ -296,18 +296,28 @@ COMMAND mode
 - `C-o` - ugrás vissza
 - `C-i` - ugrás előre
 - `g;` - ugrás a legutóbb szerkesztett helyre
-- `g,` - ugrás a legutóbb szerkesztett helyre (fordított sorrendben)
 - `gv` - legutóbbi kijelölés helyreállítása
+
+---
+
+## Nvim disztribúciók
+
+- LazyVim
+- NvChad
+- LunarVim
+- AstroNvim
+- Kickstart.nvim
 
 ---
 
 ## LazyVim
 
-- 2023
-- Folke Lemaitre
-- Neovim disztribúció (pre-configured setup)
 - <https://www.lazyvim.org/>
 - <https://lazyvim-ambitious-devs.phillips.codes/>
+
+## Kickstart.nvim
+
+- https://github.com/nvim-lua/kickstart.nvim
 
 ---
 
