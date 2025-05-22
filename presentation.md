@@ -66,7 +66,6 @@ _Vim / Neovim kedvcsináló_
 - Jupyter Notebook
 - Obsidian
 - Zsh/Bash
-- LazyGit
 - etc.
 
 ---
