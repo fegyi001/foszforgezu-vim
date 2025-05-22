@@ -1,6 +1,6 @@
 # Foszforgezu-vim
 
-> A presentation about the Vim editor and its ecosystem using `slides`
+> A presentation about the Vim & Neovim using `slides`
 
 ## Run presentation
 
