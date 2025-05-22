@@ -79,10 +79,6 @@ INSERT mode
 
 VISUAL mode
 
-COMMAND mode
-
-REPLACE mode
-
 ---
 
 ## Modal editor
@@ -92,10 +88,6 @@ REPLACE mode
 INSERT mode
 
 VISUAL mode
-
-COMMAND mode
-
-REPLACE mode
 
 ---
 
@@ -107,10 +99,6 @@ NORMAL mode
 
 VISUAL mode
 
-COMMAND mode
-
-REPLACE mode
-
 ---
 
 ## Modal editor
@@ -121,48 +109,16 @@ INSERT mode
 
 ### VISUAL mode
 
-COMMAND mode
-
-REPLACE mode
-
----
-
-## Modal editor
-
-NORMAL mode
-
-INSERT mode
-
-VISUAL mode
-
-### COMMAND mode
-
-REPLACE mode
-
----
-
-## Modal editor
-
-NORMAL mode
-
-INSERT mode
-
-VISUAL mode
-
-COMMAND mode
-
-### REPLACE mode
-
 ---
 
 ## NORMAL mode
 
 ### Arrow keys (home row)
 
-- `j` - le
-- `k` - fel
-- `h` - balra
-- `l` - jobbra
+- `h` - ← balra
+- `j` - ↓ le
+- `k` - ↑ fel
+- `l` - → jobbra
 
 ---
 
