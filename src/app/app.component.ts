@@ -1,7 +1,7 @@
-import { Component, OnInit } from '@angular/core';
-import { Map, View } from 'ol';
-import TileLayer from 'ol/layer/Tile';
-import { XYZ } from 'ol/source';
+import { Component, OnInit } from '@angular/core'
+import { Map, View } from 'ol'
+import TileLayer from 'ol/layer/Tile'
+import { XYZ } from 'ol/source'
 
 @Component({
   selector: 'app-root',
@@ -9,7 +9,7 @@ import { XYZ } from 'ol/source';
   styleUrl: './app.component.scss',
 })
 export class AppComponent implements OnInit {
-  map: Map | null = null;
+  map: Map | null = null
 
   ngOnInit() {
     // TODO: refactor this - move to a private method
@@ -28,6 +28,6 @@ export class AppComponent implements OnInit {
         // TODO: change zoom to use the app service
         zoom: 0,
       }),
-    });
+    })
   }
 }
