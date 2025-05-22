@@ -343,5 +343,3 @@ COMMAND mode
 ---
 
 # DEMO
-
-//
