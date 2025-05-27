@@ -110,6 +110,14 @@ INSERT mode
 
 ---
 
+## Modal editor
+
+- **NORMAL** mode: amennyit csak lehet
+
+- **INSERT** mode: csak amennyit muszáj
+
+---
+
 ## NORMAL mode
 
 ### Arrow keys (home row)
@@ -250,6 +258,12 @@ INSERT mode
 
 - `C-o` - ugrás vissza
 - `C-i` - ugrás előre
+
+---
+
+## Vegyes
+
+- `.` - ismétli az utolsó parancsot
 - `g;` - ugrás a legutóbb szerkesztett helyre
 - `gv` - legutóbbi kijelölés helyreállítása
 
