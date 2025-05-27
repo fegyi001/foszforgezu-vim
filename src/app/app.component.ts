@@ -12,7 +12,7 @@ export class AppComponent implements OnInit {
   map: Map | null = null
 
   ngOnInit() {
-    // TODO: refactor this - move to a private method
+    // TODO: 3. Refactor this - move to a private method
     this.map = new Map({
       target: 'map',
       layers: [
@@ -23,9 +23,9 @@ export class AppComponent implements OnInit {
         }),
       ],
       view: new View({
-        // TODO: change center to use the app service
+        // TODO: 2. Change center to use the app service
         center: [0, 0],
-        // TODO: change zoom to use the app service
+        // TODO: 1. Change zoom to use the app service
         zoom: 0,
       }),
     })
