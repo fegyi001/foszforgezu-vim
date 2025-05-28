@@ -12,19 +12,7 @@ _Avagy hogyan navigálj a kódban egér használata nélkül, hatékonyan_
 
 # DOBD EL AZ EGERED
 
-_Vim / Neovim kedvcsináló_
-
----
-
-## Ki az, aki...?
-
----
-
-## Mi a Vim / Neovim?
-
-- 📝 Szövegszerkesztő (text editor)
-- ⌨️ Terminál alapú
-- 🚫🖱️ Egér használata nélkül
+_Vim motions kedvcsináló_
 
 ---
 
@@ -33,6 +21,21 @@ _Vim / Neovim kedvcsináló_
 - 💪 Hatékonyabb
 - ❤️ Nagyobb élvezet
 - 😎 Menőbb
+
+---
+
+## Ki az, aki...?
+
+---
+
+## Mi a Vim?
+
+- 📝 Szövegszerkesztő (text editor)
+- ⌨️ Terminál alapú
+- 🧩 Bővíthető és testreszabható
+- 🌍 Nyílt forráskódú
+- 📅 Több évtizedes múltra tekint vissza
+- 🖥️ Cross-platform (Linux, macOS, Windows)
 
 ---
 
@@ -50,10 +53,22 @@ _Vim / Neovim kedvcsináló_
 
 <https://survey.stackoverflow.co/2024/technology#2-integrated-development-environment>
 
-|                   | VSCode             | Vim | Neovim             |
-| ----------------- | ------------------ | --- | ------------------ |
-| Legnépszerűbb     | 73% (1. helyezett) | 22% | 12.5%              |
-| Legjobban kedvelt | 77%                | 69% | 83% (1. helyezett) |
+| Editor             | 🏆 Legnépszerűbb   | ❤️ Legjobban kedvelt |
+| ------------------ | ------------------ | -------------------- |
+| Visual Studio Code | 73% (1. helyezett) | 77%                  |
+| Vim                | 22%                | 69%                  |
+| Neovim             | 12.5%              | 83% (1. helyezett)   |
+
+---
+
+## Mi a Vim motions?
+
+- 🖋️ Vim szerkesztési stílus
+- 🚫🖱️ Egér használata nélküli navigáció / szerkesztés
+- 🧠 Memorizálható billentyűparancsok
+- 📚 Különböző módok
+- 🛠️ Különböző szerkesztési műveletek
+- 🌐 Integrálható más eszközökkel
 
 ---
 
@@ -162,6 +177,7 @@ INSERT mode
 
 - `w` - következő szó elejére ugrik
 - `b` - előző szó elejére ugrik
+- `e` - aktuális szó végére ugrik
 
 ---
 
