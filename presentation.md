@@ -74,14 +74,14 @@ _Vim motions kedvcsináló_
 
 ## Vim !== Vim motions
 
+Plugin-ek segítségével:
+
 - VSCode
 - IntelliJ (IDEA, PyCharm, WebStorm, stb.)
 - Android Studio
-- Sublime Text
 - Jupyter Notebook
 - Obsidian
-- Zsh/Bash
-- etc.
+- stb.
 
 ---
 
@@ -91,7 +91,7 @@ NORMAL mode
 
 INSERT mode
 
-VISUAL mode
+...
 
 ---
 
@@ -101,7 +101,7 @@ VISUAL mode
 
 INSERT mode
 
-VISUAL mode
+...
 
 ---
 
@@ -111,7 +111,7 @@ NORMAL mode
 
 ### INSERT mode
 
-VISUAL mode
+...
 
 ---
 
@@ -121,15 +121,15 @@ NORMAL mode
 
 INSERT mode
 
-### VISUAL mode
+### VISUAL mode, REPLACE mode, OPERATOR-PENDING mode stb
 
 ---
 
 ## Ökölszabály
 
-- **NORMAL** mode: amennyit csak lehet
+- _NORMAL_ mode: amennyit csak lehet
 
-- **INSERT** mode: csak amennyit muszáj
+- _INSERT_ mode: csak amennyit muszáj
 
 ---
 
@@ -341,7 +341,7 @@ INSERT mode
 ## Dotfiles
 
 - <https://github.com/fegyi001/dotfiles>
-- tmux, zsh, wezterm, yazi, starship etc.
+- tmux, zsh, wezterm, yazi, starship stb.
 
 ---
 
