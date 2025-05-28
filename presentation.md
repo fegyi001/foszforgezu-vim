@@ -110,7 +110,7 @@ INSERT mode
 
 ---
 
-## Modal editor
+## Ökölszabály
 
 - **NORMAL** mode: amennyit csak lehet
 
