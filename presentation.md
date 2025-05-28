@@ -32,10 +32,10 @@ _Vim motions kedvcsináló_
 
 - 📝 Szövegszerkesztő (text editor)
 - ⌨️ Terminál alapú
-- 🧩 Bővíthető és testreszabható
 - 🌍 Nyílt forráskódú
 - 📅 Több évtizedes múltra tekint vissza
 - 🖥️ Cross-platform (Linux, macOS, Windows)
+- 🧩 Bővíthető és testreszabható
 
 ---
 
@@ -183,22 +183,22 @@ INSERT mode
 
 ## NORMAL mode
 
-### Másolás, törlés, beillesztés
+### Törlés, másolás, beillesztés
 
-- `y` - másolás (yank)
 - `x` - egy karakter törlése
 - `d` - törlés (és vágólapra illesztés)
+- `y` - másolás (yank)
 - `p` - beillesztés
 
 ---
 
 ## NORMAL mode
 
-### Másolás, törlés teljes soron
+### Törlés, másolás teljes soron
 
-- `yy` - teljes sor másolása
 - `dd` - teljes sor törlése
 - `cc` - teljes sor törlése és INSERT módba lépés
+- `yy` - teljes sor másolása
 
 ---
 
@@ -320,6 +320,12 @@ INSERT mode
 
 ---
 
+# DEMO
+
+- <https://github.com/fegyi001/foszforgezu-vim>
+
+---
+
 # MY CONFIG
 
 ## Neovim
@@ -337,6 +343,8 @@ INSERT mode
 
 ---
 
-# DEMO
+# SLIDES
 
-- <https://github.com/fegyi001/foszforgezu-vim>
+- <https://github.com/maaslalani/slides>
+- markdown alapú prezentációs eszköz
+- parancssoros
