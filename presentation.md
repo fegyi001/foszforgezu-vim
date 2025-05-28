@@ -133,15 +133,6 @@ INSERT mode: csak amennyit muszáj
 
 ---
 
-## Kilépés, mentés
-
-- `:q` - kilépés
-- `:w` - mentés
-- `:wq` - mentés és kilépés
-- `q!` - kilépés mentés nélkül
-
----
-
 ## NORMAL mode
 
 ### Arrow keys (home row)
@@ -311,6 +302,15 @@ INSERT mode: csak amennyit muszáj
 
 ---
 
+## Kilépés, mentés
+
+- `:q` - kilépés
+- `:w` - mentés
+- `:wq` - mentés és kilépés
+- `q!` - kilépés mentés nélkül
+
+---
+
 ## Nvim disztribúciók
 
 - LazyVim
@@ -374,3 +374,7 @@ INSERT mode: csak amennyit muszáj
 - <https://github.com/maaslalani/slides>
 - markdown alapú prezentációs eszköz
 - parancssoros
+
+---
+
+# KÖSZÖNÖM A FIGYELMET
