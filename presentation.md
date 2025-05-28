@@ -247,7 +247,7 @@ INSERT mode
 
 ---
 
-## Keresés
+## Keresés (LSP - Language Server Protocol)
 
 - `gd` - ugrás a definícióra
 - `gr` - ugrás a referenciára
