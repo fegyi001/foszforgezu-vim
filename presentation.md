@@ -197,7 +197,7 @@ INSERT mode
 ### Törlés, másolás teljes soron
 
 - `dd` - teljes sor törlése
-- `cc` - teljes sor törlése és INSERT módba lépés
+- `cc` - teljes sor törlése és _INSERT_ módba lépés
 - `yy` - teljes sor másolása
 
 ---
@@ -213,22 +213,23 @@ INSERT mode
 
 ## INSERT mode
 
-- `i` - INSERT módba lép a kurzor előtt
-- `a` - INSERT módba lép a kurzor mögött
-- `I` - INSERT módba lép a sor elején
-- `A` - INSERT módba lép a sor végén
-- `o` - új sort nyit INSERT módban
-- `O` - új sort nyit fölötte INSERT módban
-- `Esc` - vissza NORMAL módba
+- `i` - _INSERT_ módba lép a kurzor előtt
+- `a` - _INSERT_ módba lép a kurzor mögött
+- `I` - _INSERT_ módba lép a sor elején
+- `A` - _INSERT_ módba lép a sor végén
+- `o` - új sort nyit _INSERT_ módban
+- `O` - új sort nyit fölötte _INSERT_ módban
+- `Esc` - vissza _NORMAL_ módba
 
 ---
 
 ## VISUAL mode
 
 - `v` - karakterek kijelölése (innen `hjkl`, `b`, `w`, `e` stb...)
-- `V` - VISUAL LINE (V-LINE) mód, teljes sor kijelölése
-- `Ctrl+v` - VISUAL BLOCK (V-BLOCK) mód, oszlop kijelölése
+- `V` - _VISUAL LINE (V-LINE)_ mód, teljes sor kijelölése
+- `Ctrl+v` - _VISUAL BLOCK (V-BLOCK)_ mód, oszlop kijelölése
 - `o` - kijelölés másik végére ugrás
+- `Esc` - vissza _NORMAL_ módba
 
 ---
 
@@ -236,13 +237,14 @@ INSERT mode
 
 - `r` - karaktert cserél
 - `R` - REPLACE módba lép (több karakter cseréje)
+- `Esc` - vissza _NORMAL_ módba
 
 ---
 
 ## OPERATOR-PENDING mode
 
 - `diw` - töröld a teljes szót
-- `ciw` - módosítsd a teljes szót, INSERT módba vált
+- `ciw` - módosítsd a teljes szót, _INSERT_ módba vált
 - `yip` - töröld a teljes bekezdést
 - `vi'` - jelöld ki az idézőjel közötti részt
 - `di{` - töröld a kapcsos zárójelek közötti részt
