@@ -127,9 +127,18 @@ INSERT mode
 
 ## Ökölszabály
 
-- _NORMAL_ mode: amennyit csak lehet
+NORMAL mode: amennyit csak lehet
 
-- _INSERT_ mode: csak amennyit muszáj
+INSERT mode: csak amennyit muszáj
+
+---
+
+## Kilépés, mentés
+
+- `:q` - kilépés
+- `:w` - mentés
+- `:wq` - mentés és kilépés
+- `q!` - kilépés mentés nélkül
 
 ---
 
@@ -298,6 +307,7 @@ INSERT mode
 - `g;` - ugrás a legutóbb szerkesztett helyre
 - `gv` - legutóbbi kijelölés helyreállítása
 - `%` - ugrás a zárójel párjához (kerek, szögletes, kapcsos zárójelek)
+- ...
 
 ---
 
