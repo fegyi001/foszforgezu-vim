@@ -186,9 +186,9 @@ INSERT mode
 ### Törlés, másolás, beillesztés
 
 - `x` - egy karakter törlése
-- `d` - törlés (és vágólapra illesztés)
-- `y` - másolás (yank)
-- `p` - beillesztés
+- `d` - kijelölés törlése (és vágólapra illesztés)
+- `y` - kijelölés másolása (yank)
+- `p`, `P` - beillesztés
 
 ---
 
