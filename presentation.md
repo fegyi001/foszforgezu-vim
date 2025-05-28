@@ -207,7 +207,20 @@ INSERT mode
 ### Visszavonás, újra
 
 - `u` - visszavonás
-- `Ctrl+r` - újra
+- `C-r` - újra
+
+---
+
+## NORMAL mode
+
+### Karakterre ugrás
+
+- `f{char}` - ugrás a következő `{char}` karakterre a sorban
+- `F{char}` - ugrás az előző `{char}` karakterre a sorban
+- `t{char}` - ugrás a következő `{char}` karakter elé a sorban
+- `T{char}` - ugrás az előző `{char}` karakter elé a sorban
+- `;` - ismétli az utolsó `f`, `F`, `t`, `T` parancsot
+- `,` - visszafelé ismétli az utolsó `f`, `F`, `t`, `T` parancsot
 
 ---
 
@@ -227,7 +240,7 @@ INSERT mode
 
 - `v` - karakterek kijelölése (innen `hjkl`, `b`, `w`, `e` stb...)
 - `V` - _VISUAL LINE (V-LINE)_ mód, teljes sor kijelölése
-- `Ctrl+v` - _VISUAL BLOCK (V-BLOCK)_ mód, oszlop kijelölése
+- `C-v` - _VISUAL BLOCK (V-BLOCK)_ mód, oszlop kijelölése
 - `o` - kijelölés másik végére ugrás
 - `Esc` - vissza _NORMAL_ módba
 
@@ -284,6 +297,7 @@ INSERT mode
 - `.` - ismétli az utolsó parancsot
 - `g;` - ugrás a legutóbb szerkesztett helyre
 - `gv` - legutóbbi kijelölés helyreállítása
+- `%` - ugrás a zárójel párjához (kerek, szögletes, kapcsos zárójelek)
 
 ---
 
