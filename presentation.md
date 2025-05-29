@@ -65,9 +65,8 @@ _Vim motions kedvcsináló_
 
 - 🖋️ Vim szerkesztési stílus
 - 🚫🖱️ Egér használata nélküli navigáció / szerkesztés
-- 🧠 Memorizálható billentyűparancsok
-- 📚 Különböző módok
-- 🛠️ Különböző szerkesztési műveletek
+- 🧠 Egyszerű (de sok) billentyűparancs → izommemória
+- 📚 Különböző módok (modal editing)
 - 🌐 Integrálható más eszközökkel
 
 ---
@@ -85,7 +84,7 @@ Plugin-ek segítségével:
 
 ---
 
-## Modal editor
+## Modal editing
 
 NORMAL mode
 
@@ -95,7 +94,7 @@ INSERT mode
 
 ---
 
-## Modal editor
+## Modal editing
 
 ### NORMAL mode
 
@@ -105,7 +104,7 @@ INSERT mode
 
 ---
 
-## Modal editor
+## Modal editing
 
 NORMAL mode
 
@@ -115,7 +114,7 @@ NORMAL mode
 
 ---
 
-## Modal editor
+## Modal editing
 
 NORMAL mode
 
