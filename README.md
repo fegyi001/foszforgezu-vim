@@ -11,7 +11,11 @@
 ### Run presentation from the command line
 
 ```bash
-slides presentation.md
+# Presentation
+slides 1-presentation.md
+
+# Cheat sheet
+slides 2-cheat_sheet.md
 ```
 
 ## Run demo project
