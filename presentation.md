@@ -20,7 +20,7 @@ _Vim motions kedvcsináló_
 
 - 💪 Hatékonyabb
 - ❤️ Nagyobb élvezet
-- 😎 Menőbb (I use Neovim, btw...)
+- 😎 Menő (I use Neovim, btw...)
 
 ---
 
