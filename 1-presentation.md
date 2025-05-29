@@ -4,15 +4,15 @@ date: YYYY.MM.DD.
 paging: Foszforgézu 2025 | Slide %d / %d
 ---
 
-# DOBD EL AZ EGERED
+# DOBD EL AZ EGERET!
 
 _Avagy hogyan navigálj a kódban egér használata nélkül, hatékonyan_
 
 ---
 
-# DOBD EL AZ EGERED
+# DOBD EL AZ EGERET!
 
-_Vim motions kedvcsináló_
+_Vim, Neovim kezdőknek_
 
 ---
 
@@ -30,11 +30,11 @@ _Vim motions kedvcsináló_
 
 ## Mi a Vim?
 
-- 📝 Szövegszerkesztő (text editor)
+- 📝 Szövegszerkesztő
 - ⌨️ Terminál alapú
 - 🌍 Nyílt forráskódú
 - 📅 Több évtizedes múltra tekint vissza
-- 🖥️ Cross-platform (Linux, macOS, Windows)
+- 🖥️ Cross-platform
 - 🧩 Bővíthető és testreszabható
 
 ---
@@ -80,7 +80,7 @@ Plugin-ek segítségével:
 - Android Studio
 - Jupyter Notebook
 - Obsidian
-- stb.
+- Stb.
 
 ---
 
@@ -90,7 +90,7 @@ NORMAL mode
 
 INSERT mode
 
-...
+Stb.
 
 ---
 
@@ -100,7 +100,7 @@ INSERT mode
 
 INSERT mode
 
-...
+Stb.
 
 ---
 
@@ -110,7 +110,7 @@ NORMAL mode
 
 ### INSERT mode
 
-...
+Stb.
 
 ---
 
@@ -120,15 +120,15 @@ NORMAL mode
 
 INSERT mode
 
-### VISUAL mode, REPLACE mode, OPERATOR-PENDING mode stb
+### VISUAL mode, REPLACE mode, OPERATOR-PENDING mode stb.
 
 ---
 
 ## Modal editing
 
-NORMAL mode: amennyit csak lehet
+NORMAL mode → _amennyit csak lehet_
 
-INSERT mode: csak amennyit muszáj
+INSERT mode → _csak amennyit muszáj_
 
 ---
 
@@ -140,10 +140,10 @@ A teljesség igénye nélkül
 
 ## Learning
 
-- [Vimtutor](https://vimschool.netlify.app/introduction/vimtutor/)
-- [Vim cheatsheet](https://devhints.io/vim)
 - [ThePrimeagen: Why I use Vim in 2022](https://www.youtube.com/watch?v=D4YTJ2W5q4Y)
 - [Josean Martinez: The Ultimate Beginner’s Guide To Learn And Master Vim](https://www.youtube.com/watch?v=80mWp6H4zEw)
+- [Vimtutor](https://vimschool.netlify.app/introduction/vimtutor/)
+- [Vim cheatsheet](https://devhints.io/vim)
 
 ---
 
