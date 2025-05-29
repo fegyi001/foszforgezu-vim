@@ -2,7 +2,7 @@
 
 > A presentation about Vim & Neovim using [slides](https://github.com/maaslalani/slides)
 
-![Image](img.webp 'Why would I exit Vim?')
+![Image](img.png 'Why would I exit Vim?')
 
 ## Run presentation
 
