@@ -174,9 +174,9 @@ INSERT mode: csak amennyit muszáj
 
 ### Ugrás egy szónyit
 
-- `w` - következő szó elejére ugrik
-- `b` - előző szó elejére ugrik
-- `e` - aktuális szó végére ugrik
+- `w`, `W` - következő szó elejére ugrik
+- `b`, `B` - előző szó elejére ugrik
+- `e`, `E` - aktuális szó végére ugrik
 
 ---
 
@@ -196,8 +196,8 @@ INSERT mode: csak amennyit muszáj
 ### Törlés, másolás teljes soron
 
 - `dd` - teljes sor törlése
-- `cc` - teljes sor törlése és _INSERT_ módba lépés
 - `yy` - teljes sor másolása
+- `cc` - teljes sor törlése és _INSERT_ módba lépés
 
 ---
 
