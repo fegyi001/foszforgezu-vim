@@ -20,7 +20,7 @@ _Vim motions kedvcsináló_
 
 - 💪 Hatékonyabb
 - ❤️ Nagyobb élvezet
-- 😎 Menőbb
+- 😎 Menőbb (I use Neovim, btw...)
 
 ---
 
@@ -348,6 +348,15 @@ INSERT mode: csak amennyit muszáj
 # DEMO
 
 - <https://github.com/fegyi001/foszforgezu-vim>
+
+---
+
+# LEARNING
+
+- [Vimtutor](https://vimschool.netlify.app/introduction/vimtutor/)
+- [Vim cheatsheet](https://devhints.io/vim)
+- [ThePrimeagen: Why I use Vim in 2022](https://www.youtube.com/watch?v=D4YTJ2W5q4Y)
+- [Josean Martinez: The Ultimate Beginner’s Guide To Learn And Master Vim](https://www.youtube.com/watch?v=80mWp6H4zEw)
 
 ---
 
